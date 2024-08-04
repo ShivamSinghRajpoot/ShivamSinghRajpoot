@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shivam Singh Rajpoot</h1>
 <h3 align="center">A students who was very curious to know or learn about web-development and programming language.</h3>
-<img src="https://images.app.goo.gl/dhrvPixZoWxPzXPVA">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivamsinghrajpoot&label=Profile%20views&color=0e75b6&style=flat" alt="shivamsinghrajpoot" /> </p>
 
